@@ -1,0 +1,9 @@
+names:
+- bola_cerca
+- bola_lejos
+- linea_cerca
+- hexapodo_propio
+- hexapodo_ajeno
+nc: 5
+train: C:/Users/Jtorr/PycharmProjects/IAAR_Project/dataset/images/train
+val: C:/Users/Jtorr/PycharmProjects/IAAR_Project/dataset/images/val
